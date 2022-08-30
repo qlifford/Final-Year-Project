@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44743734452",
+    "project_id": "gkart-38f36",
+    "storage_bucket": "gkart-38f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44743734452:android:244758685ba8a2c26f53e1",
+        "android_client_info": {
+          "package_name": "com.example.gkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44743734452-7v4q8h24ckuegd20142l0a83gq5omo83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDED0Ac-amgbF30LvxGUzX071VvhbKWBPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44743734452-7v4q8h24ckuegd20142l0a83gq5omo83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
